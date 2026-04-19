@@ -1,4 +1,4 @@
 # project-demo
 This is my first repository
 <br>
-Author - Shubangi Sharma
+Author - Shubangi (sharma)
